@@ -1,9 +1,9 @@
 ![Logo](https://cdn.numworks.com/4bc58f5e.png)
-# Numworks N0120 System Infos Application
+# Numworks N0120 Outils Application
 
-Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, Conformité, Architecture, Mémoire, FPS, Boucles et Temps allumé.
+Numworks N0120 : Application Outils qui contient : Horloge, Minuteur, Chronomètre, et d'autre à venir.
 ## Comment l'installer
-- Rendez-vous dans les [Releases](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/releases).
+- Rendez-vous dans les [Releases](https://github.com/brabra2750/Numworks-N0120-App-Outils/releases).
 - Télécharger la dernière version du fichier `app.nwa`.
 - Rendez-vous sur le site [Numworks](https://my.numworks.com/apps) pour installer l'application. (Connecter vous si besoin)
 - Brancher votre calculette au PC et suivez les instructions.
@@ -11,20 +11,16 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 - (Si quand vous lançer l'application, la calculatrice redémarre ce n'est pas un bug. Suivez les instructions de démarrage puis re-lançer l'application.)
 ## Fonctionnalités
 
-- Temps écran allumé depuis dernière exctinction complète
-- FPS (Frame par Seconde)
-- Vitesse de travail
-- Info CPU
-- Info RAM Utilisés
-- Model
-- Normes
-- Localisation d'assemblage
+- Horloge
+- Minuteur
+- Chronomètre
+- D'autre à venir...
 ## A Venir
 
 - Interface plus élaboré et dans le thème NumWorks
 - Image et thème d'application synchroniser avec le mode sombre.
-- Autre infos visible dans l'application.
-- Ajout d'un menu de séléction (crédit, info, version,...)
+- Autre outils utilisable dans l'application.
+- Ajout d'un menu de séléction (crédit, info, version, paramètres,...)
 ## Screenshots
 
 ![Loading](https://www.biolab-martinique.fr/wp-content/uploads/2023/01/bientot-disponible.png)
@@ -35,13 +31,14 @@ Numworks N0120 : Application System Infos qui donnent des infos sur : Modèle, C
 **Technologies :** Node, GIT, MSYS2 et ARM GNU ToolChain
 ## Feedback
 
-Si vous avez des commentaires à nous faire parvenir, n'hésitez pas à nous contacter via les [Pull Requests](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/pulls).
+Si vous avez des commentaires à nous faire parvenir, n'hésitez pas à nous contacter via les [Pull Requests](https://github.com/brabra2750/Numworks-N0120-App-Outils/pulls).
 ## Support
 
-Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou signaler un **Bug** veuiller vous rendre dans les [issues](https://github.com/brabra2750/Numworks-N0120-App-System-Infos/issues).
+Si vous souhaiter me proposer une **Fonctionnalité** pour cette applications ou signaler un **Bug** veuiller vous rendre dans les [issues](https://github.com/brabra2750/Numworks-N0120-App-Outils/issues).
 ## Autre Project Numworks
 
 - [Vecteurs](https://github.com/brabra2750/Numworks-N0120-App-Vecteurs)
+- [Outils](https://github.com/brabra2750/Numworks-N0120-App-Outils)
 - D'autre Projet sont en cours comme l'application Leçon et pourrais apparaitre ici dans le futur.
 ## Créations et Dévelopement
 
